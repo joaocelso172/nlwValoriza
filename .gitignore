@@ -111,3 +111,4 @@ node_modules/uuid/v3.js
 node_modules/uuid/v4.js
 node_modules/uuid/v5.js
 node_modules/uuid/wrapper.mjs
+node_modules
